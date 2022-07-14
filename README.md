@@ -1,5 +1,5 @@
 # dunk-webscraper
-webscraper for the upcoming dunk releases uplaoded on sneakernews.com
+webscrapign script for the upcoming dunk releases uplaoded on sneakernews.com
 
 using python
 using selenium -> "pip3 install selenium"
